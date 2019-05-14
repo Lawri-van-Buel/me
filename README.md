@@ -7,5 +7,6 @@ I can be found / contacted on:
 
 Presentations:
  - SecOSDay 2019:
-   - [securing-unsecured-app-opensource-tools](http://secosday.eu/session/securing-unsecured-app-opensource-tools)
+   - [Session page](http://secosday.eu/session/securing-unsecured-app-opensource-tools)
    - [Slides](https://040lab.com/secosday/index.html)
+   - [Recording](https://youtu.be/H427-CeINbY)
